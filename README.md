@@ -18,13 +18,17 @@ Follow these simple steps to install IDM and set up automatic trial reset for co
    Run the IDM installer (*No administrator privileges required*).
 5. **Run Trial Reset Tool**  
    Launch `IDM Trial Reset.exe` (*No administrator privileges required*).
+   
    <img width="327" height="139" alt="image" src="https://github.com/user-attachments/assets/872389e1-3cb9-485b-9c52-21fa76b7e42a" />
 7. **Configure Reset**  
    * Go to the **Trial Reset** tab from the top menu.
+     
      <img width="327" height="139" alt="image" src="https://github.com/user-attachments/assets/1be7e080-2736-469b-89e8-c4e79dfbe1b4" />
    * Check the **Automatically** checkbox to auto-reset your trial.
+     
      <img width="327" height="139" alt="image" src="https://github.com/user-attachments/assets/c55fcb4e-701b-46e9-892d-e475b341e906" />
 9. **Wait For Few Seconds And Press Ok**
+    
     <img width="250" height="128" alt="image" src="https://github.com/user-attachments/assets/7bef99a4-7b70-4d0b-a318-42239c5eb1b0" />
 8. **Complete & Restart**  
    Restart your PC.
